@@ -1,9 +1,8 @@
-title: minwoo-kang.com
-email: null
+title: Minwoo Kang
+email:
 description: Minwoo Kang's Blog
 url: https://minwoo-kang.com
-keywords:
-  - blog
+keywords: ["blog"]
 timezone: Asia/Seoul
 markdown: kramdown
 highlighter: rouge
@@ -17,15 +16,7 @@ kramdown:
   enable_coderay: false
 owner:
   name: Minwoo
-  avatar: ''
-  job: ''
+  avatar: minwoo-kang.jpeg
   bio: Software Engineer @ Naver
-  email: null
-  disqus-shortname: null
-  google:
-    analytics: null
-    verify: null
-    ad-client: null
-    ad-slot: null
   github: mwkang
   linkedin: mwkang
