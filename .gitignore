@@ -7,6 +7,11 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.directory
+Thumbs.db
+_drafts
+.ruby-version
+Gemfile.lock
 
 ### macOS ###
 # General
